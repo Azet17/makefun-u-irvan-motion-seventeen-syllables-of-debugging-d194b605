@@ -11,7 +11,7 @@ from pathlib import Path
 HAIKU = (
     "breakpoint never fires\n"
     "stack traces scroll past midnight\n"
-    "I wrote it myself\n"
+    "I shipped it myself\n"
 )
 
 DEFAULT_OUTPUT_DIR = "/output"
